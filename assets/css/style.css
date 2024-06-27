@@ -1,8 +1,67 @@
-h1 {
+/* whomp whomp - this didn't work 
+* {
+    background-color: rgb(188, 216, 216);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: large;
-    font-weight: 500;
+} */
+ /* make the space that will hold the main logo and the nav tag one 
+ space and make it one background color */
+header , h1 , header nav , header nav ul {
+    background-color: rgb(21, 121, 146);
 }
-h2 {
-    font-size: medium;
+/* put the nav inline with the main logo at opposite ends*/
+h1, nav {
+    display: flex;
+    justify-content: space-between;
 }
+header h1 {
+    font-weight: 900;
+    display: inline-flex;
+    justify-content: flex-start;
+    align-content: center;
+} 
+header nav ul {
+    display: flex;
+    justify-content: flex-end;
+}
+header nav ul li {
+    display: inline-flex;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+}
+header nav ul li a {
+    background-color: rgb(21, 121, 146);
+    color: white;
+    font-size: x-large;
+    font-family:Arial, Helvetica, sans-serif;
+}
+div {
+    display: flex; 
+
+}
+/* eventually use this to scale that one photo to be bigger than the other */
+/* .scale {
+    transform: scale(1.5, 1);
+  } */
+
+  /* header needs to be barely bigger than the name. 
+  the name is about the same size as all of the headers 
+  of the sections. */
+
+  /*header has navigation links that are in line with the name 
+  and link to sections*/
+
+  /*cool subtitle is in a different color block - potential a photo*/
+
+  /* images have a border that is a few px bigger than the images
+  and there is a description sitting on top of the image*/
+
+  /* one of the images is much larger than the others and 
+  sitting on top of 2 of them. */
+
+  /* when hovering over the images, it seems to highlight*/
+
+  /*There is a vertical line breaking the section headers
+  and the content itself*/
+
+  
