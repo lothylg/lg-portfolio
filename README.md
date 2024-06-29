@@ -12,3 +12,10 @@ https://www.google.com/search?sca_esv=55cb79dc624ae92a&sxsrf=ADLYWILJs06z8TiX8eA
 
 Linking within html:
 https://www.w3schools.com/html/html_links.asp
+
+Getting free images: 
+unsplash.com
+
+linking a website on an image: 
+https://hyperise.com/blog/how-to-embed-a-hyperlink-in-an-image#:~:text=Put%20the%20anchor%20tag%20%3Ca,http%3A%2F%2F%E2%80%9D%20before%20the%20link.&text=Now%20enjoy%20the%20hyperlink%20in,have%20followed%20these%20steps%20properly.
+
