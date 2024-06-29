@@ -1,5 +1,7 @@
 ![Screen Shot 2024-06-29 at 12 53 39 AM](https://github.com/lothylg/lg-portfolio/assets/171598913/4b7dd113-1d4f-4b74-a8b6-f4e60ab9e3c8)
 
+link to published site: https://lothylg.github.io/lg-portfolio/
+
 
 Citations: placing images on text: 
 https://www.w3schools.com/howto/howto_css_image_text.asp
