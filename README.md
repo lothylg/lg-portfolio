@@ -1,4 +1,5 @@
-![Screen Shot 2024-06-29 at 12 53 39 AM](https://github.com/lothylg/lg-portfolio/assets/171598913/4b7dd113-1d4f-4b74-a8b6-f4e60ab9e3c8)
+
+![Screen Shot 2024-07-01 at 4 19 19 PM](https://github.com/lothylg/lg-portfolio/assets/171598913/5fc0bbd1-12e2-44c0-8a21-531ea7d2632e)
 
 link to published site: https://lothylg.github.io/lg-portfolio/
 
